@@ -1,3 +1,4 @@
-Programação Orientada a Objetos
-Análise e Desenvolvimento de Sistemas
-Pedro Dambiski de Vargas
+Aluno: Pedro Dambiski de Vargas, 4° Período
+Matéria: Programação Orientada a Objetos
+Curso: Análise e Desenvolvimento de Sistemas
+
